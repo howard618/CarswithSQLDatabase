@@ -1,5 +1,5 @@
 # Cars with SQL Database
-
+![image alt](https://github.com/howard618/CarswithSQLDatabase/blob/631cd24cc54b608f9748b5f636d834f1245987c0/carmanagement.jpg)
 ## Overview
 
 Cars with SQL Database is a C# WPF desktop application that demonstrates full CRUD (Create, Read, Update, Delete) functionality using Entity Framework Core and SQL Server.
